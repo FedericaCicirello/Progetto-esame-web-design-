@@ -5,6 +5,7 @@ body {
 }
 
 header {
+   
     margin: 0;
     font-size: 12pt;
     padding: 1rem;
@@ -38,6 +39,8 @@ nav a {
     font-size: 20px;
 }
 
+
+
 main {
    text-align: center;
     margin:auto;
@@ -64,7 +67,6 @@ main {
     grid-template-columns: repeat(1, 1fr);
      
 }
-
 
 }
 
